@@ -1,0 +1,7 @@
+Sustainability.xlsx
+SAAM_PartI_Results.xlsx
+
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.venv/
